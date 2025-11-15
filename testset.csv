@@ -1,5 +1,18 @@
-question,answer
-¿Dónde nace el río Uruguay?,El río Uruguay nace en Brasil.
-¿En qué año se firmó el tratado de Tordesillas?,El tratado de Tordesillas se firmó en 1494.
-¿Cuál es el presidente actual de Chile?,El presidente actual de Chile es Gabriel Boric.
-¿La Biblioteca Nacional siempre estuvo en su lugar actual?,"No, la sede de la Biblioteca Nacional ha cambiado varias veces a lo largo de la historia."
+question,answer,source
+¿Dónde nace el río Uruguay?,"Lo siento, no cuento con información para responder esa pregunta.",N/A
+¿En qué año se firmó el tratado de Tordesillas?,"Lo siento, no cuento con información para responder esa pregunta.",N/A
+¿Cuál es el presidente actual de Chile?,"Lo siento, no cuento con información para responder esa pregunta.",N/A
+¿Cuál es la capital de Francia?,"Lo siento, no cuento con información para responder esa pregunta.",N/A
+¿Quién ganó la Copa del Mundo de la FIFA 2022?,"Lo siento, no cuento con información para responder esa pregunta.",N/A
+¿Cuál es la fórmula química del agua?,"Lo siento, no cuento con información para responder esa pregunta.",N/A
+¿Es la Biblioteca Nacional más antigua que la república de Uruguay?,"Sí, la Biblioteca Nacional es más antigua que la propia república.",Presentacion.pdf
+¿En qué año fue nombrado Francisco Acuña de Figueroa director de la Biblioteca Nacional?,Fue nombrado a mediados de 1840.,Acuña de Figueroa.pdf
+¿Qué director de la Biblioteca Nacional es también considerado el primer poeta de la patria?,Francisco Acuña de Figueroa.,Acuña de Figueroa.pdf
+¿Qué botánico francés visitó la biblioteca cerrada hacia 1820 y estimó su colección?,"Auguste de Saint-Hilaire, quien estimó que el número de libros era de aproximadamente dos mil.","Clausura, expolios, intentos de reapertura.pdf"
+¿Quién fue el arquitecto que ganó el concurso de 1937 para el actual edificio de la Biblioteca Nacional?,El arquitecto Luis Crespi.,El edificio de la Biblioteca Nacional.pdf
+¿Qué director propuso en 1873 la Creación de una Nueva Biblioteca Nacional mediante una suscripción popular?,Juan Antonio Tavolara.,La Nueva Biblioteca Nacional.pdf
+¿Qué relación tuvieron Dámaso Antonio Larrañaga y Acuña de Figueroa con la Biblioteca Nacional?,"Dámaso Antonio Larrañaga fue el protagonista del acto fundacional de la biblioteca. Francisco Acuña de Figueroa fue director de la biblioteca durante siete años, en los complejos tiempos del Sitio Grande de Montevideo.",Presentacion.pdf;Acuña de Figueroa.pdf
+¿Qué dos directores de la Biblioteca Nacional tuvieron gestiones criticadas o problemáticas?,"La gestión de Francisco Acuña de Figueroa fue polémica por su camaleonismo político y su fidelidad a Rivera, que llevó a su destitución. La gestión de Juan Antonio Tavolara fue criticada por rematar obras consideradas inservibles a vil precio y Fernández Saldaña la consideró poco brillante.",Acuña de Figueroa.pdf;La Nueva Biblioteca Nacional.pdf
+¿La Biblioteca Nacional siempre estuvo en su lugar actual?,"No, la sede de la Biblioteca Nacional ha cambiado varias veces a lo largo de la historia.","Presentacion.pdf, La Nueva Biblioteca Nacional.pdf, El edificio de la Biblioteca Nacional.pdf"
+¿En que año la Biblioteca Nacional contó con más volúmenes?,"En 2021, al alcanzar los 850.000 volúmenes","La Nueva Biblioteca Nacional.pdf, El edificio de la Biblioteca Nacional.pdf"
+¿En que año terminó el mandato de Francisco Acuña de Figueroa como director de la Biblioteca Nacional?,En 1847,Acuña de Figueroa.pdf
